@@ -128,6 +128,10 @@ name = "d1_hello"
 version = "0.1.0"
 
 [[package]]
+name = "d2_variables"
+version = "0.1.0"
+
+[[package]]
 name = "derive_more"
 version = "0.99.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
